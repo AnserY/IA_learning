@@ -10,6 +10,7 @@ The repository contains the following folder:
 - **03-building makemore (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&t=1763s)
 - **04-building micrograd (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&t=3127s)
 
+- **from-scratch**: this folder contains Jupyter notebooks that implement some ML algorithms from scratch.
 
 # Usage 
 
