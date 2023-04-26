@@ -7,9 +7,16 @@ The repository contains the following folder:
 
 - **02-paper implementations**:  using well-known Python frameworks and libraries, the most renowned scientific papers implemented in this folder. Papers are about computer vision, natural language processing (NLP), speech recognition, and reinforcement learning.   
 
-- **03-building makemore (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours related to [makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&t=1763s)
+- **03-building makemore (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&t=1763s)
+- **04-building micrograd (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&t=3127s)
+
 
 # Usage 
+
+# Tools 
+The tools and frameworks encountered during my journey: 
+- [huggingface](https://huggingface.co/):  Similar to GitHub, there is a platform designed specifically for storing machine learning models, datasets, and applications (referred to as "spaces"). This platform also provides libraries to facilitate the integration of their models and datasets into your code 
+- [DVC](https://dvc.org/) : Open-source, Git-based data science. Apply version control to machine learning development, make your repo the backbone of your project, and instill best practices across your team. 
 
 
 # Credit 
