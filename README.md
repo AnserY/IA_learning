@@ -5,12 +5,14 @@ This Git repository contains a learning trace of my journey in machine learning 
 The repository contains the following folder: 
 - **01-foundations**: in this directory, you will find Jupyter notebooks designed to facilitate my learning of essential Python libraries, including Numpy, Pandas, Scipy, Matplotlib, as well as ML and DL frameworks like Scikit-learn and Pytorch.
 
-- **02-paper implementations**:  using well-known Python frameworks and libraries, the most renowned scientific papers implemented in this folder. Papers are about computer vision, natural language processing (NLP), speech recognition, and reinforcement learning.   
+- **02-paper-implementations**:  using well-known Python frameworks and libraries, the most renowned scientific papers implemented in this folder. Papers are about computer vision, natural language processing (NLP), speech recognition, and reinforcement learning.   
 
-- **03-building makemore (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&t=1763s)
-- **04-building micrograd (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&t=3127s)
+- **03-building-makemore (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&t=1763s)
+- **04-building-micrograd (Andrej Karpathy)**: this folder contains the Jupyter notebooks related to the Karpathy's cours about [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&t=3127s)
 
-- **from-scratch**: this folder contains Jupyter notebooks that implement some ML algorithms from scratch.
+- **04-from-scratch**: this folder contains Jupyter notebooks that implement some DL & ML algorithms such as kmeans, logistic regression, decision tree, CNN & RNN from scratch in order fully understand this algorithm.
+
+- **05-data-preprocessing**: this folder contains notes & notebooks about various data processing tasks, such as how to handle missing data, how to generating synthetic data (for exemple the GAN algorithm), how to join datasets, and how to perform text and video processing.
 
 # Usage 
 
