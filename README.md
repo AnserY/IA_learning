@@ -22,4 +22,8 @@ The tools and frameworks encountered during my journey:
 - [DVC](https://dvc.org/) : Open-source, Git-based data science. Apply version control to machine learning development, make your repo the backbone of your project, and instill best practices across your team. 
 - [joblib](https://joblib.readthedocs.io/en/latest/): Joblib is part of the SciPy ecosystem and provides utilities for pipelining Python jobs. It provides utilities for saving and loading Python objects that make use of NumPy data structures, efficiently.
 
+
+# People to follow to stay up-date 
+-
+
 # Credit 
