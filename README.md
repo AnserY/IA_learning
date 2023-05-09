@@ -14,6 +14,8 @@ The repository contains the following folder:
 
 - **05-data-preprocessing**: this folder contains notes & notebooks about various data processing tasks, such as how to handle missing data, how to generating synthetic data (for exemple the GAN algorithm), how to join datasets, and how to perform text and video processing.
 
+- **06-ML-for-production** : this folder contains notes & notebook related to the coursera specializations: ML engineering for production (mlops). It's can be found [here](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
 # Usage 
 
 # Tools 
@@ -24,6 +26,6 @@ The tools and frameworks encountered during my journey:
 
 
 # People to follow to stay up-date 
--
-
+- [Andrew Ng](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): Co-Founder of Coursera, and an Adjunct Professor at Stanford University.
+- [andrej karpathy](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): IA God. 
 # Credit 
