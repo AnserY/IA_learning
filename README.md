@@ -27,5 +27,5 @@ The tools and frameworks encountered during my journey:
 
 # People to follow to stay up-date 
 - [Andrew Ng](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): Co-Founder of Coursera, and an Adjunct Professor at Stanford University.
-- [andrej karpathy](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): IA God. 
+- [andrej karpathy](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): IA God. author of the series of videos NN zero to hero.
 # Credit 
