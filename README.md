@@ -14,7 +14,7 @@ The repository contains the following folder:
 
 - **05-data-preprocessing**: this folder contains notes & notebooks about various data processing tasks, such as how to handle missing data, how to generating synthetic data (for exemple the GAN algorithm), how to join datasets, and how to perform text and video processing.
 
-- **06-ML-for-production** : this folder contains notes & notebook related to the coursera specializations: ML engineering for production (mlops). It's can be found [here](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- **06-ML-for-production** : this folder contains notes & notebook related to course about deployment of ML project in production. For exemple the coursera specializations: ML engineering for production (mlops). It's can be found [here](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 # Usage 
 
