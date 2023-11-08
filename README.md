@@ -18,11 +18,14 @@ The repository contains the following folder:
 
 # Usage 
 
-# Tools 
-The tools and frameworks encountered during my journey: 
+# Source and Tools 
+Tools and frameworks encountered during my journey: 
 - [huggingface](https://huggingface.co/):  Similar to GitHub, there is a platform designed specifically for storing machine learning models, datasets, and applications (referred to as "spaces"). This platform also provides libraries to facilitate the integration of their models and datasets into your code 
 - [DVC](https://dvc.org/) : Open-source, Git-based data science. Apply version control to machine learning development, make your repo the backbone of your project, and instill best practices across your team. 
 - [joblib](https://joblib.readthedocs.io/en/latest/): Joblib is part of the SciPy ecosystem and provides utilities for pipelining Python jobs. It provides utilities for saving and loading Python objects that make use of NumPy data structures, efficiently.
+
+Source encountered during my journey: 
+- [ MIT Press book Ian Goodfellow](http://www.deeplearningbook.org/): the most comprehensive book available on the deep learning and available as free html book. 
 
 
 # People to follow to stay up-date 
